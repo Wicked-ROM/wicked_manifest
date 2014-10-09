@@ -1,4 +1,4 @@
 wicked_manifest
 ===============
 
-The manifest
+The manifest - stay tuned
