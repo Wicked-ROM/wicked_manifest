@@ -20,7 +20,7 @@
            remote="wicked"
            sync-j="4" />  
 
-  <project path="build" name="platform/build" remote="wicked" revision="lollipop" >
+  <project path="build" name="wicked_build" remote="wicked" revision="lollipop" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="lollipop-release" />
