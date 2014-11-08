@@ -65,7 +65,7 @@
   <project path="external/astl" name="platform/external/astl" remote="aosp" revision="lollipop-release" />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="lollipop-release" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="lollipop-release" />
-  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" revision="refs/tags/android-4.2.1_r1_" remote="aosp" revision="lollipop-release" />
+  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" remote="aosp" revision="lollipop-release" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="lollipop-release" />
   <project path="external/bsdiff" name="platform/external/bsdiff" remote="aosp" revision="lollipop-release" />
   <project path="external/bzip2" name="platform/external/bzip2" remote="aosp" revision="lollipop-release" />
@@ -281,7 +281,7 @@
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" remote="aosp" revision="lollipop-release" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" remote="aosp" revision="lollipop-release" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="lollipop-release" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" revision="refs/tags/android-4.2.1_r1___" remote="aosp" revision="lollipop-release" />
+  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="lollipop-release" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" revision="lollipop-release" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" remote="aosp" revision="lollipop-release" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" remote="aosp" revision="lollipop-release" />
