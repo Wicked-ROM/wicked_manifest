@@ -200,7 +200,7 @@
   <project path="external/webkit" name="platform/external/webkit" remote="aosp" revision="master" />
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="lollipop-release" />
   <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="lollipop-release" />
-  <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" remote="aosp" revision="lollipop-release" />
+  <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" remote="aosp" revision="master" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" remote="aosp" revision="lollipop-release" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="lollipop-release" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" remote="aosp" revision="lollipop-release" />
