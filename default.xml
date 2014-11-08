@@ -52,7 +52,7 @@
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="lollipop-release" />
   <project path="external/aac" name="platform/external/aac" remote="aosp" revision="lollipop-release" />
   <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="lollipop-release" />
-  <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="lollipop-release" />
+  <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="master" />
   <project path="external/ant-glob" name="platform/external/ant-glob" remote="aosp" revision="lollipop-release" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="lollipop-release" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="lollipop-release" />
