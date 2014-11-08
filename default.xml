@@ -94,7 +94,7 @@
   <project path="external/flac" name="platform/external/flac" remote="aosp" revision="lollipop-release" />
   <project path="external/freetype" name="platform/external/freetype" remote="aosp" revision="lollipop-release" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="lollipop-release" />
-  <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" remote="aosp" revision="lollipop-release" />
+  <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" remote="aosp" revision="master" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" remote="aosp" revision="lollipop-release" />
   <project path="external/genext2fs" name="platform/external/genext2fs" remote="aosp" revision="lollipop-release" />
   <project path="external/giflib" name="platform/external/giflib" remote="aosp" revision="lollipop-release" />
