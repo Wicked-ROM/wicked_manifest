@@ -78,7 +78,7 @@
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="lollipop-release" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" remote="aosp" revision="lollipop-release" />
   <project path="external/doclava" name="platform/external/doclava" remote="aosp" revision="lollipop-release" />
-  <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="lollipop-release" />
+  <project path="external/dropbear" name="platform/external/dropbear" remote="aosp" revision="master" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="aosp" revision="lollipop-release" />
   <project path="external/easymock" name="platform/external/easymock" remote="aosp" revision="lollipop-release" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" remote="aosp" revision="lollipop-release" />
