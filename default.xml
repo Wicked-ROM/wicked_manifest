@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="gh"
+	        fetch="git://github.com" />
+  <remote  name="ad5gb"
+	        fetch="git://github.com/AD5GB" />
+  <remote  name="cm"
+	        fetch="git://github.com/CyanogenMod" />
+  <remote  name="ls"
+	        fetch="git://github.com/LiquidSmooth" />
+  <remote  name="lsd"
+	        fetch="git://github.com/LiquidSmooth-devices" />
   <remote  name="jameson"
            fetch="git://github.com/jamesonwilliams" />
   <remote  name="aosp"
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
-  <default revision="refs/tags/android-4.2.1_r1"
+  <default revision="refs/tags/android-5.0.0_r2"
            remote="aosp"
            sync-j="4" />
 
