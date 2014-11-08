@@ -173,7 +173,7 @@
   <project path="external/protobuf" name="platform/external/protobuf" remote="aosp" revision="lollipop-release" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="lollipop-release" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="lollipop-release" />
-  <project path="external/quake" name="platform/external/quake" remote="aosp" revision="lollipop-release" />
+  <project path="external/quake" name="platform/external/quake" remote="aosp" revision="master" />
   <project path="external/regex-re2" name="platform/external/regex-re2" remote="aosp" revision="lollipop-release" />
   <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="lollipop-release" />
   <project path="external/safe-iop" name="platform/external/safe-iop" remote="aosp" revision="lollipop-release" />
