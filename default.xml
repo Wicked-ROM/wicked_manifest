@@ -20,11 +20,11 @@
            remote="wicked"
            sync-j="4" />  
 
-  <project path="build" name="platform/build" >
+  <project path="build" name="platform/build" remote="wicked" revision="lollipop" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="platform/bionic" />
+  <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="lollipop-release" />
+  <project path="bionic" name="platform/bionic" remote="aosp" revision="lollipop-release" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="lollipop-release" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="lollipop-release" />
   <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="lollipop-release" />
