@@ -73,7 +73,7 @@
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" remote="aosp" revision="master" />
   <project path="external/clang" name="platform/external/clang" remote="aosp" revision="lollipop-release" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" remote="aosp" revision="lollipop-release" />
-  <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="lollipop-release" />
+  <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="master" />
   <project path="external/dexmaker" name="platform/external/dexmaker" remote="aosp" revision="lollipop-release" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="lollipop-release" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" remote="aosp" revision="lollipop-release" />
