@@ -122,7 +122,7 @@
   <project path="external/junit" name="platform/external/junit" remote="aosp" revision="lollipop-release" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="lollipop-release" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="lollipop-release" />
-  <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="lollipop-release" />
+  <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="master" />
   <project path="external/libgsm" name="platform/external/libgsm" remote="aosp" revision="lollipop-release" />
   <project path="external/liblzf" name="platform/external/liblzf" remote="aosp" revision="lollipop-release" />
   <project path="external/libmtp" name="platform/external/libmtp" remote="aosp" revision="lollipop-release" />
