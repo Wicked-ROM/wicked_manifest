@@ -166,7 +166,7 @@
   <project path="external/openssh" name="platform/external/openssh" remote="aosp" revision="master" />
   <project path="external/openssl" name="platform/external/openssl" remote="aosp" revision="lollipop-release" />
   <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="lollipop-release" />
-  <project path="external/ping" name="platform/external/ping" remote="aosp" revision="lollipop-release" />
+  <project path="external/ping" name="platform/external/ping" remote="aosp" revision="master" />
   <project path="external/ping6" name="platform/external/ping6" remote="aosp" revision="lollipop-release" />
   <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="lollipop-release" />
   <project path="external/proguard" name="platform/external/proguard" remote="aosp" revision="lollipop-release" />
