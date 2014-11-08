@@ -162,7 +162,7 @@
   <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="lollipop-release" />
   <project path="external/okhttp" name="platform/external/okhttp" remote="aosp" revision="lollipop-release" />
   <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="lollipop-release" />
-  <project path="external/openfst" name="platform/external/openfst" remote="aosp" revision="lollipop-release" />
+  <project path="external/openfst" name="platform/external/openfst" remote="aosp" revision="master" />
   <project path="external/openssh" name="platform/external/openssh" remote="aosp" revision="lollipop-release" />
   <project path="external/openssl" name="platform/external/openssl" remote="aosp" revision="lollipop-release" />
   <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="lollipop-release" />
