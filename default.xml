@@ -60,7 +60,7 @@
   <project path="external/apache-qp" name="platform/external/apache-qp" remote="aosp" revision="lollipop-release" />
   <project path="external/apache-xml" name="platform/external/apache-xml" remote="aosp" revision="lollipop-release" />
   <project path="external/arduino" name="platform/external/arduino" remote="aosp" revision="lollipop-release" />
-  <project path="external/astl" name="platform/external/astl" remote="aosp" revision="lollipop-release" />
+  <project path="external/astl" name="platform/external/astl" remote="aosp" revision="master" />
   <project path="external/bison" name="platform/external/bison" remote="aosp" revision="lollipop-release" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="lollipop-release" />
   <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" remote="aosp" revision="lollipop-release" />
