@@ -222,7 +222,7 @@
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="lollipop-release" />
-  <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="lollipop-release" />
+  <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="master" />
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" remote="aosp" revision="lollipop-release" />
