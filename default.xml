@@ -239,7 +239,7 @@
   <project path="hardware/msm7k" name="platform/hardware/msm7k" remote="aosp" revision="master" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" remote="aosp" revision="lollipop-release" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" remote="aosp" revision="lollipop-release" />
-  <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" remote="aosp" revision="lollipop-release" />
+  <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" remote="aosp" revision="master" />
   <project path="hardware/qcom/display" name="platform/hardware/qcom/display" remote="aosp" revision="lollipop-release" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" remote="aosp" revision="lollipop-release" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" remote="aosp" revision="lollipop-release" />
