@@ -103,7 +103,7 @@
   <project path="external/gtest" name="platform/external/gtest" remote="aosp" revision="lollipop-release" />
   <project path="external/guava" name="platform/external/guava" remote="aosp" revision="lollipop-release" />
   <project path="external/hamcrest" name="platform/external/hamcrest" remote="aosp" revision="lollipop-release" />
-  <project path="external/harfbuzz" name="platform/external/harfbuzz" remote="aosp" revision="lollipop-release" />
+  <project path="external/harfbuzz" name="platform/external/harfbuzz" remote="aosp" revision="master" />
   <project path="external/hyphenation" name="platform/external/hyphenation" remote="aosp" revision="lollipop-release" />
   <project path="external/icu4c" name="platform/external/icu4c" remote="aosp" revision="lollipop-release" />
   <project path="external/iproute2" name="platform/external/iproute2" remote="aosp" revision="lollipop-release" />
