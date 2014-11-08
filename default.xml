@@ -211,7 +211,7 @@
   <project path="frameworks/base" name="platform/frameworks/base" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="master" />
-  <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" remote="aosp" revision="lollipop-release" />
+  <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" remote="aosp" revision="master" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" remote="aosp" revision="lollipop-release" />
   <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="lollipop-release" />
