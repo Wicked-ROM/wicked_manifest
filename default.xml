@@ -70,7 +70,7 @@
   <project path="external/checkpolicy" name="platform/external/checkpolicy" remote="aosp" revision="lollipop-release" />
   <project path="external/chromium" name="platform/external/chromium" remote="aosp" revision="master" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" remote="aosp" revision="lollipop-release" />
-  <project path="external/cibu-fonts" name="platform/external/cibu-fonts" remote="aosp" revision="lollipop-release" />
+  <project path="external/cibu-fonts" name="platform/external/cibu-fonts" remote="aosp" revision="master" />
   <project path="external/clang" name="platform/external/clang" remote="aosp" revision="lollipop-release" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" remote="aosp" revision="lollipop-release" />
   <project path="external/dbus" name="platform/external/dbus" remote="aosp" revision="lollipop-release" />
