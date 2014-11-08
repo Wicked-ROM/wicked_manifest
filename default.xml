@@ -141,7 +141,7 @@
   <project path="external/libvorbis" name="platform/external/libvorbis" remote="aosp" revision="lollipop-release" />
   <project path="external/libvpx" name="platform/external/libvpx" remote="aosp" revision="lollipop-release" />
   <project path="external/libxml2" name="platform/external/libxml2" remote="aosp" revision="lollipop-release" />
-  <project path="external/libxslt" name="platform/external/libxslt" remote="aosp" revision="lollipop-release" />
+  <project path="external/libxslt" name="platform/external/libxslt" remote="aosp" revision="master" />
   <project path="external/libyuv" name="platform/external/libyuv" remote="aosp" revision="lollipop-release" />
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" remote="aosp" revision="lollipop-release" />
   <project path="external/littlemock" name="platform/external/littlemock" remote="aosp" revision="lollipop-release" />
