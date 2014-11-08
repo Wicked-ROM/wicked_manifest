@@ -342,7 +342,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="lollipop-release" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="lollipop-release" />
   <project path="sdk" name="platform/sdk" remote="aosp" revision="lollipop-release" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" remote="aosp" revision="lollipop-release" />
+  <project path="system/bluetooth" name="platform/system/bluetooth" remote="aosp" revision="master" />
   <project path="system/core" name="platform/system/core" remote="aosp" revision="lollipop-release" />
   <project path="system/extras" name="platform/system/extras" remote="aosp" revision="lollipop-release" />
   <project path="system/media" name="platform/system/media" remote="aosp" revision="lollipop-release" />
