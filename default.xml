@@ -48,7 +48,7 @@
   <project path="device/samsung/toro" name="device/samsung/toro" groups="device" remote="aosp" revision="master" />
   <project path="device/samsung/toroplus" name="device/samsung/toroplus" groups="device" remote="aosp" revision="master" />
   <project path="device/samsung/tuna" name="device/samsung/tuna" groups="device" remote="aosp" revision="master" />
-  <project path="device/ti/panda" name="device/ti/panda" groups="device" remote="aosp" revision="lollipop-release" />
+  <project path="device/ti/panda" name="device/ti/panda" groups="device" remote="aosp" revision="master" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="lollipop-release" />
   <project path="external/aac" name="platform/external/aac" remote="aosp" revision="lollipop-release" />
   <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="lollipop-release" />
