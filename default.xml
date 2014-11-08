@@ -42,8 +42,6 @@
   <project path="device/generic/x86" name="device/generic/x86" remote="aosp" revision="lollipop-release" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" remote="aosp" revision="lollipop-release" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" remote="aosp" revision="lollipop-release" />
-  <project path="device/lge/mako" name="device/lge/mako" groups="device" remote="aosp" revision="lollipop-release" />
-  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device" remote="aosp" revision="lollipop-release" />
   <project path="device/sample" name="device/sample" remote="aosp" revision="lollipop-release" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" groups="device" remote="aosp" revision="lollipop-release" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device" remote="aosp" revision="lollipop-release" />
@@ -354,6 +352,5 @@
   <project path="system/vold" name="platform/system/vold" remote="aosp" revision="lollipop-release" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" remote="aosp" revision="lollipop-release" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="lollipop-release" />
-  <project path="vendor/lge/mako" name="vendor/lge/mako"  remote="aosp" revision="lollipop-release" />
 
 </manifest>
