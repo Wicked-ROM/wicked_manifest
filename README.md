@@ -1,4 +1,4 @@
 wicked_manifest
 ===============
 
-The manifest - stay tuned
+A Programmer's ROM - stay tuned
