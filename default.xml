@@ -19,7 +19,7 @@
            fetch="git://github.com/SlimDev" />
   <remote  name="aosp"
            fetch=".." />
-  <default revision="refs/tags/android-5.1.1_r4"
+  <default revision="master"
            remote="aosp"
            sync-j="4" />
 		  
